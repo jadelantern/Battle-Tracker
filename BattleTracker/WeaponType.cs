@@ -8,8 +8,14 @@ namespace BattleTracker
 {
     public enum WeaponType
     {
+        Assault,
+        Blast,
         Pistol,
         Grenade,
+        Heavy,
+        Rapid_fire,
+
+
 
     }
 }

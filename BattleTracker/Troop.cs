@@ -19,5 +19,6 @@ namespace BattleTracker
         public int leadership;
         public int savingThrow;
         public Weapon weapon;
+        
     }
 }
